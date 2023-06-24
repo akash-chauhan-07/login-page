@@ -15,7 +15,7 @@ It's a web-based program so you would need the following:
 ### 📍 Using the application
 
 * Link to the application: [Login & Register Form Slider](https://akash-chauhan-07.github.io/login-page)
-* Or you can view the program from my portfolio: [My Portfolio](https://akash-chauhan-07.github.io/portfolio/)
+
 
 ## ❔ Help
 
