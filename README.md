@@ -22,10 +22,6 @@ It's a web-based program so you would need the following:
 Contact me on the links below:
 * [Linkedin](https://www.linkedin.com/in/akashchauhan07/)
 
-## 🕔 Version History
-
-* Version 1.0 (Current)
-    * Initial Release
 
 ## 🛠 Built With
 
