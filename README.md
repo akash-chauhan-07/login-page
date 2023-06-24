@@ -1,5 +1,5 @@
 # 📃 Login & Register Form Slider
-
+> https://akash-chauhan-07.github.io/login-page/
 This is a login and register form slider that was made with HTML, CSS and JavaScript. It has a nice animation when the user clicks the login button. The page will smoothly slide to the other slide and the user will see a register form.
 
 ## 🔧 Getting Started
